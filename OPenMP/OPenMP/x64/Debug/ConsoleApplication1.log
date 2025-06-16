@@ -1,5 +1,0 @@
-﻿  SIMD.cpp
-C:\Users\lichen\source\repos\ConsoleApplication1\ConsoleApplication1\SIMD.cpp(55,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  LINK : 没有找到 C:\Users\lichen\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe 或上一个增量链接没有生成它；正在执行完全链接
-SIMD.obj : error LNK2005: main 已经在 OpeMP.obj 中定义
-C:\Users\lichen\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
