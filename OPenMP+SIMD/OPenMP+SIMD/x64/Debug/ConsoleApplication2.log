@@ -1,3 +1,0 @@
-﻿  ConsoleApplication2.cpp
-C:\Users\lichen\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(55,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  ConsoleApplication2.vcxproj -> C:\Users\lichen\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
